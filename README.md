@@ -1,4 +1,4 @@
 # hello-world
-repositori d'aprenentatge 
-<p>Visita nostra web: www.eug.es </p>
+repositori d'aprenentatge  
+[Visita nostra web:](www.eug.es) 
 
